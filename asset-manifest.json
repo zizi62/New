@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/zizi62/New/static/css/main.01262e22.chunk.css",
-    "main.js": "/zizi62/New/static/js/main.fca4c6d6.chunk.js",
-    "main.js.map": "/zizi62/New/static/js/main.fca4c6d6.chunk.js.map",
-    "runtime~main.js": "/zizi62/New/static/js/runtime~main.0ac56528.js",
-    "runtime~main.js.map": "/zizi62/New/static/js/runtime~main.0ac56528.js.map",
-    "static/js/2.33da1b1a.chunk.js": "/zizi62/New/static/js/2.33da1b1a.chunk.js",
-    "static/js/2.33da1b1a.chunk.js.map": "/zizi62/New/static/js/2.33da1b1a.chunk.js.map",
-    "static/css/3.3f19456c.chunk.css": "/zizi62/New/static/css/3.3f19456c.chunk.css",
-    "static/js/3.cee4e645.chunk.js": "/zizi62/New/static/js/3.cee4e645.chunk.js",
-    "static/js/3.cee4e645.chunk.js.map": "/zizi62/New/static/js/3.cee4e645.chunk.js.map",
-    "index.html": "/zizi62/New/index.html",
-    "precache-manifest.2d5991809a8d0bd2a6516715a9663378.js": "/zizi62/New/precache-manifest.2d5991809a8d0bd2a6516715a9663378.js",
-    "service-worker.js": "/zizi62/New/service-worker.js",
-    "static/css/3.3f19456c.chunk.css.map": "/zizi62/New/static/css/3.3f19456c.chunk.css.map",
-    "static/css/main.01262e22.chunk.css.map": "/zizi62/New/static/css/main.01262e22.chunk.css.map",
-    "static/media/preloader.svg": "/zizi62/New/static/media/preloader.a3469f27.svg"
+    "main.css": "/New/static/css/main.01262e22.chunk.css",
+    "main.js": "/New/static/js/main.cbdc2e42.chunk.js",
+    "main.js.map": "/New/static/js/main.cbdc2e42.chunk.js.map",
+    "runtime~main.js": "/New/static/js/runtime~main.e2ebcdf5.js",
+    "runtime~main.js.map": "/New/static/js/runtime~main.e2ebcdf5.js.map",
+    "static/js/2.33da1b1a.chunk.js": "/New/static/js/2.33da1b1a.chunk.js",
+    "static/js/2.33da1b1a.chunk.js.map": "/New/static/js/2.33da1b1a.chunk.js.map",
+    "static/css/3.3f19456c.chunk.css": "/New/static/css/3.3f19456c.chunk.css",
+    "static/js/3.cee4e645.chunk.js": "/New/static/js/3.cee4e645.chunk.js",
+    "static/js/3.cee4e645.chunk.js.map": "/New/static/js/3.cee4e645.chunk.js.map",
+    "index.html": "/New/index.html",
+    "precache-manifest.5cb315565c360ba2e669731122670fd4.js": "/New/precache-manifest.5cb315565c360ba2e669731122670fd4.js",
+    "service-worker.js": "/New/service-worker.js",
+    "static/css/3.3f19456c.chunk.css.map": "/New/static/css/3.3f19456c.chunk.css.map",
+    "static/css/main.01262e22.chunk.css.map": "/New/static/css/main.01262e22.chunk.css.map",
+    "static/media/preloader.svg": "/New/static/media/preloader.a3469f27.svg"
   }
 }
