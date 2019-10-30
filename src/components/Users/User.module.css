@@ -1,0 +1,26 @@
+.usersBox{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.userBox {
+    width: 260px;
+    border: 5px solid fuchsia;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.userAva{
+    padding: 5px;
+    width: 120px;
+    height: 80px;
+    border: 1px solid fuchsia;
+    border-radius: 15px;
+
+}
+
+.selectedPage {
+    font-weight: 900;
+}

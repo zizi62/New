@@ -1,0 +1,47 @@
+*{
+  box-sizing: border-box;
+}
+
+.app-wrapper {
+
+  display: grid;
+  grid-template-areas: 
+  "h h"
+  "s p";
+  grid-template-rows: 200px 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
+  font-size:24px;
+  
+}
+
+
+.header {
+grid-area: h;
+background-color: fuchsia;
+padding: 25px;
+}
+
+.header .img {
+  width:120px;
+}
+
+.navbar{
+  grid-area: s;
+ 
+
+}
+
+.app-wrapper-content{
+  grid-area: p; 
+  background-color: gainsboro;
+}
+
+
+li {
+  list-style-type: none; 
+ }
+ ul {
+  margin-left: 0; 
+  padding-left: 0; 
+ }

@@ -1,0 +1,25 @@
+.myPost {
+    padding: 20px;
+}
+
+
+.button {
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: fuchsia;
+    outline: none;
+    margin: 25px 0 25px;
+    box-shadow: 0px 0px 12px 0px rgba(252,8,179,1);
+}
+
+.input {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    /* border: 3px solid fuchsia; */
+    padding: 5px 15px;
+    outline: none;
+    box-shadow: 0px 0px 12px 0px rgba(252,8,179,1);
+    
+}

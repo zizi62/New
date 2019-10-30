@@ -1,0 +1,13 @@
+.item {
+    display: block;
+    margin: 20px 0;
+}
+
+.active {
+    color: red;
+}
+
+.namesList{
+    width: 30%;
+    padding: 25px;
+}
